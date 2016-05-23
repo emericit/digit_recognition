@@ -1,2 +1,2 @@
 # digit_recognition
-Reconnaissance de chiffres manuscrits ana une image
+Reconnaissance de chiffres manuscrits dans une image
